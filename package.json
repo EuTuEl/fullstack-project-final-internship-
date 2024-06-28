@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/card": "^2.0.28",
+    "@nextui-org/react": "^2.4.1",
+    "@nextui-org/select": "^2.2.1",
+    "@nextui-org/system": "^2.1.2",
+    "@nextui-org/theme": "^2.2.3",
+    "axios": "^1.7.2",
+    "framer-motion": "^11.2.4",
+    "js-cookie": "^3.0.5",
+    "next": "^14.2.4",
+    "path": "^0.12.7",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
     "postcss": "^8",
